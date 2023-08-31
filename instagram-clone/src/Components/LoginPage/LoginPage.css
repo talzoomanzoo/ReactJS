@@ -42,11 +42,16 @@ body{
     color: white;
 }
 
+.login_ordiv {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
 .loginpage__dividor {
-  width: 80px;
-  height: 0px;
-  margin-top: 10px;
-  border: 1px solid #dbdbdb;
+    width: 80px;
+    height: 0px;
+    margin-top: 10px;
+    border: 1px solid #dbdbdb;
 }
 .loginpage__or {
     margin: 0px 10px;
@@ -64,4 +69,17 @@ body{
     line-height: 14px;
     margin-top: 12px;
     text-align: center;
+}
+.loginpage__downloadSection{
+    height: 105px;
+    width: 350px;
+    text-align: center;
+    margin-top: 40px;
+}
+.loginpage__option {
+    margin-top:20px;
+}
+.loginpag_dwimg {
+    margin-top:20px;
+    margin:5px;
 }
