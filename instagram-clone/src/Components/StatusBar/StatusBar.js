@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import "./StatusBar.css";
 import { Avatar } from '@material-ui/core';
-
+import statusimg from '../../images/statusadd.png'
 class StatusBar extends Component {
     constructor(props) {
         super(props)
